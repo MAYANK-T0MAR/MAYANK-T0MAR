@@ -71,10 +71,52 @@ I'm always working on personal projects to sharpen my skills — feel free to ch
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+# My Favourite Project
+**[SHOW HUB](https://github.com/MAYANK-T0MAR/show-hub)** TV-Show organizer - discover, track, discuss TV Shows and create lists, share reviews, and join the conversation. Powered by React, Node.js, Express and MongoDB.
+![ShowHub_search](assets/showHub_showDetails_page.png)
+<details>
+<summary><strong>🔽 CLICK TO VIEW FULL GALLERY</strong></summary>
+<br>
+  
+| ![Search Page](assets/showHub_search.png) | ![Episodes Page](assets/showHub_episodes_page.png) |
+|:--:|:--:|
+| **Search any TV Show** | **Episodes Page** |
+
+| ![Add to List Page](assets/showHub_addToList_page.png) | ![User Lists Page](assets/showHub_userLists_page.png) |
+|:--:|:--:|
+| **Add Show to your List** | **User Lists Page** |
+
+<p align="center">
+<img src="assets/showHub_reviews.png" width=100% />
+<br>
+<em>Write Reviews with HTML Rich Formatting</em>
+</p>
+
+<p align="center">
+<img src="assets/showHub_forums.png" width=100% />
+<br>
+<em>Create Threads</em>
+</p>
+</details>
+
+# Minor Projects
+### Instagram Homepage
+<p align="center">
+  <img src="assets/instagramClone.jpg" width="100%" />
+  <br>
+  <em>When I was trying to learn CSS</em>
+</p>
+
+### Gemini Clone
+<p align="center">
+  <img src="assets/geminiClone.png" width="100%" />
+  <br>
+  <em>When I was trying to learn API Integration</em>
+</p>
 
 # 📊 GitHub Stats:
+
+![dp2kuk914o9y_gif (1731×560)](https://github.com/user-attachments/assets/4e711099-ef4b-4613-8a5b-4ee7fcc9185f)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=MAYANK-T0MAR&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANK-T0MAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
