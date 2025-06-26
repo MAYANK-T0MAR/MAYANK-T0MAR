@@ -1,5 +1,4 @@
-# 💫 About Me:
-### Hi there 👋, I'm Mayank!
+# Hi there👋, I'm Mayank
 ![download](https://github.com/user-attachments/assets/50c9a40c-3ff9-4866-ab9b-82549e7de833)
 I'm a **Full Stack Developer** with a focus on the **MERN Stack** (MongoDB, Express, React, Node.js). Currently, I'm expanding my skill set with **Next.js**, **TypeScript**, and **Tailwind CSS**, building modern, production-ready web applications.
 
