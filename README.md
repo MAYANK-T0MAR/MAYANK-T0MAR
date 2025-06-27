@@ -120,7 +120,7 @@ I'm always working on personal projects to sharpen my skills — feel free to ch
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=MAYANK-T0MAR&theme=dark&hide_border=false) -->
 <!--  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANK-T0MAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 <p align=center>
-<img src="https://nirzak-streak-stats.vercel.app/?user=MAYANK-T0MAR&theme=dark&hide_border=false" height=195>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANK-T0MAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height=195>
+<img src="https://nirzak-streak-stats.vercel.app/?user=MAYANK-T0MAR&theme=dark&hide_border=false" height=190>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANK-T0MAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height=190>
 </p>
 <!--  ![Snake animation](https://github.com/MAYANK-T0MAR/MAYANK-T0MAR/blob/output/github-contribution-grid-snake.svg) -->
