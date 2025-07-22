@@ -99,19 +99,21 @@ I'm always working on personal projects to sharpen my skills — feel free to ch
 </details>
 
 # Minor Projects
-### Instagram Homepage
+### [JSON Schema Builder](https://github.com/MAYANK-T0MAR/json_schema_builder)
+<p align="center">
+  <img src="assets/json_schema_builder_screenshot.png" width="100%" />
+  <br>
+  <em>Recent Fun Project</em>
+</p>
+
+### [Instagram Homepage](https://github.com/MAYANK-T0MAR/instagram-homepage-clone)
 <p align="center">
   <img src="assets/instagramClone.jpg" width="100%" />
   <br>
   <em>When I was trying to learn CSS</em>
 </p>
 
-### Gemini Clone
-<p align="center">
-  <img src="assets/geminiClone.png" width="100%" />
-  <br>
-  <em>When I was trying to learn API Integration</em>
-</p>
+
 
 # 📊 GitHub Stats:
 
