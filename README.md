@@ -4,7 +4,7 @@ I'm a **Full Stack Developer** with a focus on the **MERN Stack** (MongoDB, Expr
 
 While I enjoy writing backend logic, I also have a growing interest in **UI/UX design** — I love the idea of creating experiences that are not just functional but visually appealing and intuitive.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-singh-tomar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@MayankDotTxT) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/KA1S3L) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MayankDotTxT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayanktomar281@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-singh-tomar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@MayankDotTxT) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/KA1S3L) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MayankDotTxT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:draft.mayank@gmail.com) 
 
 ```yaml
 {
