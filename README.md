@@ -70,7 +70,7 @@ I'm always working on personal projects to sharpen my skills — feel free to ch
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# Featured Project
+<!-- # Featured Project
 **[SHOW HUB](https://github.com/MAYANK-T0MAR/show-hub)** TV-Show organizer - discover, track, discuss TV Shows and create lists, share reviews, and join the conversation. Powered by React, Node.js, Express and MongoDB.
 ![ShowHub_search](assets/showHub_showDetails_page.png)
 <details>
@@ -119,10 +119,12 @@ I'm always working on personal projects to sharpen my skills — feel free to ch
 
 ![dp2kuk914o9y_gif (1731×560)](https://github.com/user-attachments/assets/4e711099-ef4b-4613-8a5b-4ee7fcc9185f)
 
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=MAYANK-T0MAR&theme=dark&hide_border=false) -->
-<!--  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANK-T0MAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 <p align=center>
 <img src="https://nirzak-streak-stats.vercel.app/?user=MAYANK-T0MAR&theme=dark&hide_border=false" height=190>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANK-T0MAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height=190>
 </p>
-<!--  ![Snake animation](https://github.com/MAYANK-T0MAR/MAYANK-T0MAR/blob/output/github-contribution-grid-snake.svg) -->
+-->
+
+# Portfolio
+Visit my site to know more about me and explore my projects
+[mayanktomar.com](mayanktomar.com)
