@@ -126,5 +126,5 @@ I'm always working on personal projects to sharpen my skills — feel free to ch
 -->
 
 # Portfolio
-Visit my site to know more about me and explore my projects
-[mayanktomar.com](mayanktomar.com)
+Visit my [Portfolio Website](https://mayanktomar.com) to know more about me and explore my projects.
+[![Mayank Tomar](https://www.mayanktomar.com/meta/home_cover.png)](https://mayanktomar.com)
